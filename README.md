@@ -1,4 +1,4 @@
-# 猎鸭小游戏 (Duck Hunting Game)
+# 猎鸭小游戏 
 
 一款基于 Cocos Creator 开发的经典猎鸭休闲射击游戏，操作简单，趣味十足！
 
