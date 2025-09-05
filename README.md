@@ -13,5 +13,5 @@
 
 ## 📷 游戏截图
 （建议放 1-2 张游戏截图，直观展示画面）  
-![游戏主界面](docs/screenshots/main.png)  
-![游戏中画面](docs/screenshots/ingame.png)  
+![游戏主界面](screenshots/img_v3_02pr_3ff60593-3ff7-480b-bba5-19121a9c690g.jpg)  
+![游戏中画面](screenshots/img_v3_02pr_2642f95d-f408-4524-acd6-b0a4400e61fg.jpg)  
